@@ -105,7 +105,7 @@ When contributing to this project:
 
 ## License
 
-[Add your license information here]
+Faizan Abuzar
 
 ## Acknowledgments
 
