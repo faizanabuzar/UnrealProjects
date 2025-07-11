@@ -1,6 +1,14 @@
+#############
+UR Generated Files 
+#############
 */Build
 */Binaries
 */DerivedDataCache
 */Intermediate
 */Saved
 buildingEscape/Content/StarterContent/
+
+#############
+VS Generated Files 
+#############
+*.db
